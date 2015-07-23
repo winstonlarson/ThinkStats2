@@ -104,3 +104,4 @@ def main(script):
 
 if __name__ == '__main__':
     main(*sys.argv)
+    print("Winston")
